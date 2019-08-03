@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{55:function(e,n,o){"use strict";o.r(n),n.default={title:"GraphQL en Oracle, usando Koa.js",tags:["GraphQL","Oracle","Koa","Espa\xf1ol"],spoiler:"Aprende como construir un servidor de GraphQL con sus datos en una base de datos Oracle ",getContent:function(){return o.e(3).then(o.bind(null,50))}}}}]);
+//# sourceMappingURL=7.cc018fd8.chunk.js.map
